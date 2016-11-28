@@ -1,4 +1,4 @@
-# codeigniter-3-generate-to-pdf
+# simple-generate-pdf-by-ci-dompdf
 Library for generate html to PDF, by DOM-PDF
 
 ## Intro
